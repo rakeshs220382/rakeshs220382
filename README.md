@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Rakesh S
 
-🚀 **Java Solution Architect | AWS Certified | Microservices Expert**  
+🚀 **Java Solution Architect with expertise in Microservices, AWS Cloud, Spring Boot, and scalable system design. 
+I specialize in building high-performance, distributed applications, optimizing enterprise solutions, and ensuring seamless 
+cloud integration. Passionate about architecture patterns, DevOps, and modern event-driven systems**  
 💡 I help businesses build **scalable and high-performance applications** using Java, Spring Boot, and AWS.  
 
 ## 🔹 About Me
